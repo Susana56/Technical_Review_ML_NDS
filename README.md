@@ -12,6 +12,6 @@ with their defined requirements. Our team was curious of potential extensions to
 Coding a specificed problem allows you to realize misconceptions held and understand what is being done. The model works in predicting one time step
 in the future, NOT a number of time steps in the future. This isn't that practical in real applications as you would need a large amount of data to correctly predict in the future for a long period of time. 
 
-I had assumed it takes the predicted 1 step data as input to predict the following time step. This clearly leads to an accumulation of error as you continue. 
+I had assumed it takes the predicted 1 step data as input to predict the following time step. This clearly leads to an accumulation of error. [See below]
 
 <img width="1124" alt="Lorenz_system" src="https://user-images.githubusercontent.com/38049811/199127406-23478aba-25c0-4700-9610-f25864213dda.png">
