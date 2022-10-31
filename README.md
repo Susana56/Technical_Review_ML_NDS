@@ -14,3 +14,4 @@ in the future, NOT a number of time steps in the future. This isn't that practic
 
 I had assumed it takes the predicted 1 step data as input to predict the following time step. This clearly leads to an accumulation of error as you continue. 
 
+<img width="1124" alt="Lorenz_system" src="https://user-images.githubusercontent.com/38049811/199127406-23478aba-25c0-4700-9610-f25864213dda.png">
